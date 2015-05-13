@@ -5,7 +5,7 @@ Node is our Server listen to 5000 port (require nodejs -v 0.10.x)
 
 ### How to start 
 $ git clone https://github.com/cpapidas/socket-nodejs-java
-$ cd node-server
+$ cd socket-nodejs-java/node-server
 $ npm install
 $ node index.js
 
